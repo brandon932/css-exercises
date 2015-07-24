@@ -14,3 +14,8 @@ img {
 }
 
 /* Your Code Goes Under This Line */
+
+.subtle {
+  box-shadow: 1px 1px 8px 1px ;
+  opacity: .1 ;
+}

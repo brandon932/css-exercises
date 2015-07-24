@@ -1,5 +1,5 @@
 body {
-  background: #222;
+  background:  #222;
   color: white;
 }
 
@@ -8,7 +8,33 @@ img {
   max-width: 100%;
 }
 /* Code Under This Line */
+div{
+  margin: auto;
+}
+.a {
+  height: 100px;
+  width: 350px;
+  background-color: #FFED5D;
+  /*margin:middle;*/
 
+}
+.b {
+  height: 80px;
+  width: 325px;
+  background-color: #FF7050;
+  margin: auto;
+}
+.c {
+  height: 60px;
+  width: 300px;
+  background-color: #222
+
+}
+.d {
+  height: 35px;
+  width:275px;
+  background-color: #7BBADE
+}
 /*
   Colors:
   #FFED5D

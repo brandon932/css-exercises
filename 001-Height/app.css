@@ -9,3 +9,18 @@ img {
 }
 
 /* Code Under This Line */
+
+.short{
+   height: 100px;
+}
+
+.tall{
+  height: 200px;
+}
+
+.outside{
+  height: 10em;
+}
+.inside{
+  height: inherit;
+  }
