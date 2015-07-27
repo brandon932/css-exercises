@@ -19,3 +19,21 @@ img {
 }
 
 /* Your Code Goes Under This Line */
+.circle {
+  height: 12em;
+  width: 12em;
+}
+
+.full {
+  border-radius: 50% ;
+  background: black;
+}
+
+.outline{
+  border-radius: 50%;
+  border: 2px solid black;
+}
+
+.post{
+  border-radius: 2px;
+}
